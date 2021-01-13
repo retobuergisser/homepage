@@ -26,5 +26,5 @@ header:
 title: "Trade-offs Between Redistribution and Environmental Protection: the Role
   of Information, Ideology, and Self-Interest"
 doi: https://doi.org/10.1080/13501763.2020.1749715
-date: 2021-01-13T21:15:11.467Z
+date: 2020-04-10T20:15:00.000Z
 ---
