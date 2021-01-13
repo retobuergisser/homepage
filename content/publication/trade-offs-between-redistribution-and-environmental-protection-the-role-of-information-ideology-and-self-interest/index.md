@@ -23,7 +23,7 @@ abstract: Reducing economic inequality and combatting climate change are two
   environmental protection, myopic self-interest trumps all other theoretically
   relevant variables mentioned in the literature.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
