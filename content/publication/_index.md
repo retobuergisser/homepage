@@ -1,15 +1,30 @@
 ---
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
+abstract: Reducing economic inequality and combatting climate change are two
+  strongly supported policy goals, but they will require significant public
+  investments. In times of limited fiscal resources, governments struggle to
+  raise additional revenues needed to finance both, making trade-offs between
+  generally supported policy goals likely. But how do citizens decide if they
+  have to choose between goals they support in principle, such as spending on
+  efforts to reduce inequality and channeling resources toward initiatives to
+  protect the environment? We discuss three major factors that help explain this
+  choice – information, self-interest, and ideological orientation. Our
+  experimental study shows that information is not a significant determinant of
+  such choices, and that ideology is only important as long as there are no
+  conflicting goals. Once citizens have to decide between redistribution and
+  environmental protection, myopic self-interest trumps all other theoretically
+  relevant variables mentioned in the literature.
 view: 4
-
-# Optional header image (relative to `static/media/` folder).
+publication_types:
+  - "2"
+authors:
+  - Klaus Armingeon
+  - admin
+publication: in *Journal of European Public Policy*
 header:
   caption: ""
   image: ""
+title: "Trade-offs Between Redistribution and Environmental Protection: the Role
+  of Information, Ideology, and Self-Interest"
+doi: https://doi.org/10.1080/13501763.2020.1749715
+date: 2021-01-13T21:15:11.467Z
 ---
