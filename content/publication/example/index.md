@@ -21,6 +21,7 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Thomas Kurer
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -28,7 +29,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 author_notes: []
-publication: In *Socio-Economic Review*
+publication: "*Socio-Economic Review*"
 featured: false
 date: 2019-08-07T00:00:00.000Z
 url_slides: ""
