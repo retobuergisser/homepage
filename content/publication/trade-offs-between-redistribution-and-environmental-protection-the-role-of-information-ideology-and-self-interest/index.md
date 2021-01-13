@@ -4,9 +4,10 @@ title: "Trade-Offs Between Redistribution and Environmental Protection: the Role
 publication_types:
   - "2"
 authors:
+  - Klaus Armingeon
   - admin
 doi: https://doi.org/10.1080/13501763.2020.1749715
-publication: in *Journal of European Public Policy*
+publication: "*Journal of European Public Policy*"
 abstract: Reducing economic inequality and combatting climate change are two
   strongly supported policy goals, but they will require significant public
   investments. In times of limited fiscal resources, governments struggle to
