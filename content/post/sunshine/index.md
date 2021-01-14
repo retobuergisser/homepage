@@ -1,5 +1,5 @@
 ---
-title: Sunshine States in World Markets - Tourism-Led Growth in EMU's Southern Periphery
+title: Sunshine States in World Markets -- The Political Economy of Tourism-Led Growth
 date: 2021-01-14T17:46:08.774Z
 draft: false
 featured: false
@@ -13,7 +13,7 @@ In this joint research project with Donato Di Carlo (MPIfG and EUI), we explore 
 
 ### Current Working Papers
 
-* Sunshine States in World Markets”: Tourism-Led Growth in EMU’s Southern periphery (with Donato Di Carlo) 
+* Sunshine States in World Markets: Tourism-Led Growth in EMU’s Southern periphery (with Donato Di Carlo) 
 
 
 
