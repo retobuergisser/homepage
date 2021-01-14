@@ -2,7 +2,6 @@
 summary: ""
 draft: false
 authors:
-  - admin
 lastmod: 2020-12-13T00:00:00.000Z
 title: The Politics of Welfare State Recalibration in Continental and Southern Europe
 subtitle: ""
