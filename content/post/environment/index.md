@@ -1,5 +1,5 @@
 ---
-title: Environmental Policy, Social Policy, and Green Taxation
+title: Environmental Protection, Social Policy, and Green Taxation
 date: 2021-01-14T17:44:55.346Z
 draft: false
 featured: false
