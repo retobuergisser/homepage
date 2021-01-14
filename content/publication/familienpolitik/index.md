@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Silja Häusermann
   - admin
-publication: "*Handbuch der Schweizer Politik.* NZZ Verlag. "
+publication: "*Handbuch der Schweizer Politik.* NZZ Verlag "
 draft: false
 featured: false
 image:
