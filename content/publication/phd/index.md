@@ -1,5 +1,5 @@
 ---
-title: phd
+title: The Politics of Welfare State Recalibration in Continental and Southern Europe
 publication_types:
   - "7"
 authors:
