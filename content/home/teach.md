@@ -14,12 +14,12 @@ design:
 #### University of Zurich
 
 * Political Consequences of Technological Change, MA Seminar, Spring Term 2021 (with Thomas Kurer).
-* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020.
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2020 (with Thomas Kurer).
+* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020.\
+  *Evaluation result: 5.0 (1-6 scale)*
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2020 (with Thomas Kurer).\
+  *Evaluation result: 5.7 (1-6 scale)*
 
-
-
-#### University of Bern 
+#### University of Bern
 
 * Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019.\
   *Evaluation result: 10.6 (1-11 scale)*\
@@ -29,8 +29,6 @@ design:
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
 * Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.\
   Evaluation result: 5.3 (1-6 scale)
-
-
 
 #### European University Institute
 
