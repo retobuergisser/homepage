@@ -4,10 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include political economy, comparative politics, and
   political behavior.
 interests:
-  - Comparative Political Economy
-  - Political Behavior
   - Welfare State Reforms
-  - Fiscal, Social, and Environmental Policy Preferences
+  - Labor Markets
+  - Fiscal and Environmental Policy Preferences
   - Technological Change
   - Growth Models
 social:
