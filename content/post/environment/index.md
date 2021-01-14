@@ -9,7 +9,7 @@ image:
   preview_only: false
 ---
 
-# Joint Work with Klaus Armingeon and Isabelle Stadelmann-Steffen 
+### Joint Work with Klaus Armingeon and Isabelle Stadelmann-Steffen 
 
 Transitioning from fossil fuels and nuclear energy to a renewable energy age is a challenge for many industrialized countries. One of the main concerns is how to implement and promote new technologies and solutions politically. In this context, many countries have introduced “soft policies” (Carattini et al. 2017), for instance, voluntary self-regulation (Baranzini and Thalmann 2004; Ingold 2008) or traditional subsidies for renewable energies (Marcantonini and Ellerman 2014), which, however, are either not effective enough in terms of goal attainment or financially very expensive. By contrast, incentive-based steering mechanisms (e.g., incentives or environmental taxes) are widely acknowledged to be the most effective and economically efficient instruments, since they generate continuous and long-term incentives for environmentally friendly innovation and practices (Carattini et al. 2017; Deroubaix and Lévèque 2006; Jaffe et al. 2002; Perry and Williams 1999; Rausch and Karplus 2014; Vollebergh 2007). Moreover, some researchers have argued for the economic advantages of incentive-based approaches (Carrattini et al. 2017; OECD 2008; Rausch et al. 2014). However, especially ecological taxes have been shown to be particularly difficult to implement politically, whereas conventional regulatory approaches (i.e., rules and bans) tend to be more popular for purposes of practical implementation (Felder and Schleiniger 2002; Kirchgässner and Schneider 2003). Moreover, voters seem to prefer policies of regulation and prohibition over market-oriented policies (Kirchgässner and Schneider 2003, p. 375; Stadelmann-Steffen 2011).
 
@@ -23,3 +23,5 @@ By compensation we mean that an ecological tax could generate some benefits for 
 2. Does information and knowledge on the economic mechanisms behind ecological taxes increase individual beliefs in the efficacy of these instruments, and eventually increase their popular support?
 Thus, this second question particularly considers and tests our conclusion from previous research, that a lack of information and knowledge about policy effects and erroneous beliefs in the efficacy of ecological taxes is one of the main reasons why these instruments are unpopular.
 
+
+### Working Papers 
