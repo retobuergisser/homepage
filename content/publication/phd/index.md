@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 doi: 10.2870/627916
-publication: "*Ph.D. Thesis*"
+publication: "*Ph.D. Thesis.* European University Institute. "
 abstract: ""
 draft: false
 featured: false
