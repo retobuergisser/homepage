@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Klaus Armingeon
   - admin
-doi: https://doi.org/10.1080/13501763.2020.1749715
+doi: 10.1080/13501763.2020.1749715
 publication: "*Journal of European Public Policy*"
 abstract: Reducing economic inequality and combatting climate change are two
   strongly supported policy goals, but they will require significant public
