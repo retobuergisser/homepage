@@ -5,7 +5,8 @@ authors:
 lastmod: 2020-12-13T00:00:00.000Z
 title: The Politics of Welfare State Recalibration in Continental and Southern Europe
 subtitle: ""
-date: 2021-01-13T21:24:58.414Z
+date: 
+summary: Click for more information.
 featured: false
 tags: []
 categories: []
