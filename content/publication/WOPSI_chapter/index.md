@@ -1,11 +1,13 @@
 ---
-title: The Partisan Politics of Family and Labor Market Policy Reforms in Southern Europe
+title: The Partisan Politics of Family and Labor Market Policy Reforms in
+  Southern Europe
 publication_types:
   - "6"
 authors:
   - admin
-publication: "*The World Politics of Social Investment (Volume II): The Politics
-  of Varying Social Investment Strategies.*  Oxford University Press."
+publication: "in Garritzmann, J., S. Häusermann, and B. Palier (eds.). *The
+  World Politics of Social Investment (Volume II): The Politics of Varying
+  Social Investment Strategies.*  Oxford University Press"
 abstract: This chapter sheds light on the role of political parties as social
   investment protagonists, consenters, or antagonists in the reform of labor
   market and family policies in Greece, Italy, Portugal, and Spain. Drawing on
