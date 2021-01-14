@@ -93,7 +93,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = "Department of Political Science, University of Zurich , Affolternstrasse 56, 8050 Zurich, Switzerland"
+address = {street = "Affolternstrasse 56", city = "Zurich", postcode = "8050", country = "Switzerland", country_code = "CH"}
+
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "47.41094080312161", longitude = "8.540518191672543"}
