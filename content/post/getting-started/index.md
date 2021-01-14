@@ -21,7 +21,7 @@ image:
 
 * Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer)
-* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 (Macarena Ares and Silja Häusermann)
+* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (Macarena Ares and Silja Häusermann)
 
 ### Book Project
 
