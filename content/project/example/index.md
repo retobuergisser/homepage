@@ -10,6 +10,7 @@ date: 2016-04-27T00:00:00Z
 external_link: project/example
 url_slides: ""
 title: Political Consequences of Technological Change
+subtitle: MA Seminar, University of Zurich
 tags: []
 links: []
 image:
