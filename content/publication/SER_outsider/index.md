@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 publication: "*Socio-Economic Review*"
-featured: true
+featured: false
 date: 2019-08-07T00:00:00.000Z
 url_slides: ""
 title: Insider–Outsider Representation and Social Democratic Labor Market Policy
