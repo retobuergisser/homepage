@@ -51,4 +51,4 @@ I am Postdoctoral Researcher at the Department of Political Science, University 
 
 My main research interests lie in the fields of political economy, comparative politics, and political behavior. I am particularly interested in social and fiscal policy preferences, technological change, and the politics of social and economic policy reforms. In my Ph.D., I have studied the politics of welfare state recalibration in Continental and Southern Europe over the last three decades.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_RetoBuergisser_Jan2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_RetoBuergisser_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.
