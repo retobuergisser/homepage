@@ -1,6 +1,7 @@
 ---
 title: Sunshine States in World Markets -- The Political Economy of Tourism-Led Growth
-date: 2021-01-14T17:46:08.774Z
+date:
+summary: Click for more information.
 draft: false
 featured: false
 image:
