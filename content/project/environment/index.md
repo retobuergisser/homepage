@@ -1,7 +1,7 @@
 ---
 title: Environmental Protection, Social Policy, and Green Taxation
 date: 
-summary: This is a summary
+summary: Click for more information.
 draft: false
 featured: false
 image:
