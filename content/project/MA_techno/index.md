@@ -7,7 +7,7 @@ authors:
   - Thomas Kurer
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: project/MA_techno
+external_link: 
 url_slides: ""
 title: Political Consequences of Technological Change
 subtitle: MA Seminar, University of Zurich
