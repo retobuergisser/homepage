@@ -4,6 +4,7 @@ date:
 summary: Click for more information.
 draft: false
 featured: false
+weight: 4
 image:
   filename: ""
   focal_point: Smart
