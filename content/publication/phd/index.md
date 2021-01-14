@@ -5,7 +5,8 @@ publication_types:
 authors:
   - admin
 doi: 10.2870/627916
-publication: "*Ph.D. Thesis.* European University Institute. "
+publication: "*Ph.D. Thesis.* Department of Political and Social Sciences,
+  European University Institute "
 abstract: ""
 draft: false
 featured: false
