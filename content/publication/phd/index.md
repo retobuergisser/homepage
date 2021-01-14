@@ -5,6 +5,7 @@ publication_types:
 authors:
   - admin
 doi: 10.2870/627916
+publication: "*Ph.D. Thesis*"
 abstract: ""
 draft: false
 featured: false
