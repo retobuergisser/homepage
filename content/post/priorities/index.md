@@ -17,7 +17,7 @@ First, in a joint research project, Björn Bremer and I study public opinion tow
 Second, I have recently joined the ERC Welfare Priorities project, directed by Silja Häusermann at the University of Zurich, where I continue to work on social policy preferences and priorities with a wonderful team of researchers. Currently, we have a working paper on atttitudes towards the redistributive role of the state have polarized in the wake of the COVID-19 crisis. In the future, we will explore the mechanism behind solidaristic reforms that aim to expand benefits and services to people who are worse-off (e.g., those coping with precarious employment and old-age poverty, immigrants).   
 
 
-### Current Project Working Papers
+### Current Working Papers
 
 * Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer, under review)
