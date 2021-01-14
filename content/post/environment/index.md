@@ -24,4 +24,7 @@ By compensation we mean that an ecological tax could generate some benefits for 
 Thus, this second question particularly considers and tests our conclusion from previous research, that a lack of information and knowledge about policy effects and erroneous beliefs in the efficacy of ecological taxes is one of the main reasons why these instruments are unpopular.
 
 
-### Working Papers 
+### Work in Progress 
+
+* Green Taxes - Does Information and Compensation Increase Popular Support? Evidence from Survey Experiments in Switzerland (with Isabelle Stadelmann-Steffen and Klaus Armingeon).
+
