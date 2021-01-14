@@ -34,5 +34,5 @@ design:
 
 #### European University Institute
 
-* Introduction to Quantitative Methods, Ph.D. Seminar (with Fabrizio Bernardi), Fall Term 2015. 
-* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
+* Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
+* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015 (with Lea Kröger).
