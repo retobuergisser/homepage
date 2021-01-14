@@ -1,6 +1,7 @@
 ---
 title: How Technological Change Reshapes Politics -- Technology, Elections, and Policies (TECHNO)
-date: 2021-01-14T18:13:11.260Z
+date: 
+summary: Click for more information.
 draft: false
 featured: false
 image:
