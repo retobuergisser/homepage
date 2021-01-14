@@ -28,7 +28,7 @@ design:
   *Evaluation result: 5.7 (1-6 scale)*\
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
 * Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.\
-  Evaluation result: 5.3 (1-6 scale)
+  *Evaluation result: 5.3 (1-6 scale)*
 
 #### European University Institute
 
