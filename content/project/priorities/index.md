@@ -20,7 +20,7 @@ Second, I have recently joined the ERC Welfare Priorities project, directed by S
 
 ### Current Working Papers
 
-* Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review)
+* Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/gw5ea)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer, under review)
 * Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (Macarena Ares and Silja Häusermann, under review)
 
