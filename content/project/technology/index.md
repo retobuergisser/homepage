@@ -1,5 +1,5 @@
 ---
-title: How Technological Change Reshapes Politics -- Technology, Elections, and Policies (TECHNO)
+title: How Technological Change Reshapes Politics - Technology, Elections, and Policies (TECHNO)
 date: 
 summary: Click for more information.
 draft: false
@@ -21,5 +21,4 @@ Overall, the project will contribute to understanding how grievances generated b
 
 ### Work in Progress 
 
-* TBA
-
+* Mastering Technological Change: Towards a Conceptualization of Potential Policy Responses 
