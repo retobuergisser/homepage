@@ -1,5 +1,5 @@
 ---
-title: Sunshine States in World Markets -- The Political Economy of Tourism-Led Growth
+title: Sunshine States in World Markets - The Political Economy of Tourism-Led Growth
 date:
 summary: Click for more information.
 draft: false
