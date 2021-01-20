@@ -22,7 +22,7 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 
 * Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/gw5ea)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/uj6eq)
-* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (Macarena Ares and Silja Häusermann, under review). [Current Version]( https://www.researchgate.net/publication/348602813_Attitudinal_Polarization_Towards_the_Redistributive_Role_of_the_State_in_the_Wake_of_the_COVID-19_Crisis)
+* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (with Macarena Ares and Silja Häusermann, under review). [Current Version]( https://www.researchgate.net/publication/348602813_Attitudinal_Polarization_Towards_the_Redistributive_Role_of_the_State_in_the_Wake_of_the_COVID-19_Crisis)
 
 ### Work in Progress
 
