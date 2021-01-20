@@ -15,7 +15,7 @@ In this joint research project with Donato Di Carlo (MPIfG and EUI), we explore 
 
 ### Current Working Papers
 
-* Sunshine States in World Markets: Tourism-Led Growth in EMU’s Southern periphery (with Donato Di Carlo) 
+* Sunshine States in World Markets: Tourism-Led Growth in EMU’s Southern Periphery (with Donato Di Carlo) 
 
 
 
