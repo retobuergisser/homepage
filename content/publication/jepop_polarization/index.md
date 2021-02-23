@@ -6,7 +6,7 @@ authors:
   - Macarena Ares
   - admin
   - Silja Häusermann
-publication: Journal of Elections, Public Opinion and Parties
+publication: "*Journal of Elections, Public Opinion and Parties*"
 abstract: "The COVID-19 crisis presents a unique opportunity to study how public
   opinion towards the redistributive role of the state reacts to a major
   economic shock. The pandemic and the measures taken to stop it exposed
