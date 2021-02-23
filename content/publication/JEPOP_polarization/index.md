@@ -1,5 +1,5 @@
 ---
-title: JEPOP_polarization
+title: Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Crisis
 publication_types:
   - "2"
 authors:
