@@ -18,11 +18,16 @@ First, in a joint research project, Björn Bremer and I study public opinion tow
 
 Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriorities.eu) project, directed by Silja Häusermann, where I continue to work on social policy preferences and priorities with a wonderful team of researchers. We have just written a working paper showing that attitudes towards the redistributive role of the state have polarized in the wake of the COVID-19 crisis. In the future, we will explore the mechanism behind solidaristic reforms, i.e., reforms that aim to expand benefits and services to people who are worse-off (e.g., those coping with precarious employment and old-age poverty, immigrants).   
 
+### Publications
+
+* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (with Macarena Ares and Silja Häusermann, under review). [Current Version]( https://www.researchgate.net/publication/348602813_Attitudinal_Polarization_Towards_the_Redistributive_Role_of_the_State_in_the_Wake_of_the_COVID-19_Crisis)
+
+
 ### Current Working Papers
 
 * Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/gw5ea)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/uj6eq)
-* Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic (with Macarena Ares and Silja Häusermann, under review). [Current Version]( https://www.researchgate.net/publication/348602813_Attitudinal_Polarization_Towards_the_Redistributive_Role_of_the_State_in_the_Wake_of_the_COVID-19_Crisis)
+
 
 ### Work in Progress
 
