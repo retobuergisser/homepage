@@ -8,9 +8,6 @@ authors:
   - admin
 doi: 10.1080/13501763.2020.1749715
 publication: "*Journal of European Public Policy*"
-volume: 28
-issue: 4
-pages: 489-509
 abstract: Reducing economic inequality and combatting climate change are two
   strongly supported policy goals, but they will require significant public
   investments. In times of limited fiscal resources, governments struggle to
