@@ -7,7 +7,7 @@ authors:
   - admin
   - Silja Häusermann
 doi: 10.1080/17457289.2021.1924736
-publication: "*Journal of Elections, Public Opinion and Parties*"
+publication: "*Journal of Elections, Public Opinion and Parties* 31(S1), 41-55"
 abstract: "The COVID-19 crisis presents a unique opportunity to study how public
   opinion towards the redistributive role of the state reacts to a major
   economic shock. The pandemic and the measures taken to stop it exposed
