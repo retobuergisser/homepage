@@ -13,7 +13,8 @@ design:
 ---
 #### University of Zurich
 
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2021 (with Thomas Kurer).
+* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022 (with Michael Pinggera).
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2021 (with Thomas Kurer). Evaluation results: 5.3 (1-6 scale).
 * Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. Evaluation result: 5.0 (1-6 scale).
 * Political Consequences of Technological Change, MA Seminar, Spring Term 2020 (with Thomas Kurer). Evaluation result: 5.7 (1-6 scale).
 
