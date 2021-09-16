@@ -13,10 +13,10 @@ design:
 ---
 #### University of Zurich
 
-* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022 (with Michael Pinggera).
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2021 (with Thomas Kurer). Evaluation results: 5.3 (1-6 scale).
+* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2021. Evaluation results: 5.3 (1-6 scale).
 * Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. Evaluation result: 5.0 (1-6 scale).
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2020 (with Thomas Kurer). Evaluation result: 5.7 (1-6 scale).
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. Evaluation result: 5.7 (1-6 scale).
 
 #### University of Bern
 
@@ -29,4 +29,4 @@ design:
 #### European University Institute
 
 * Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
-* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015 (with Lea Kröger).
+* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
