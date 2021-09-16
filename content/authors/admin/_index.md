@@ -24,7 +24,10 @@ social:
     link: https://www.researchgate.net/profile/Reto_Buergisser
   - icon: orcid
     icon_pack: ai
-    link: http://orcid.org/0000-0001-5913-6808
+    link: http://orcid.org/0000-0001-5913-6808 
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/4674042/reto-burgisser/     
 organizations:
   - name: University of Zurich
     url: ""
