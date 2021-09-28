@@ -20,7 +20,7 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 
 ### Publications
 
-* Ares, Macarena, Reto Bürgisser, and Silja Häusermann. Forthcoming. [Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf). Journal of Elections, Public Opinion and Parties.
+* Ares, Macarena, Reto Bürgisser, and Silja Häusermann. 2021. [Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf). Journal of Elections, Public Opinion and Parties, 31 (1(S1)), 41-55.
 
 
 ### Current Working Papers
