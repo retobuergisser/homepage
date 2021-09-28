@@ -28,7 +28,7 @@ In a previous project with Klaus Armingeon, I have studied how citizens decide i
 
 ### Publications
 
-* Armingeon, Klaus and Reto Bürgisser. 2020. [Trade-Offs Between Redistribution and Environmental Protection: The Role of Information, Ideology, and Self-Interest](https://doi.org/10.1080/13501763.2020.1749715). Journal of European Public Policy.
+* Armingeon, Klaus and Reto Bürgisser. 2021. [Trade-Offs Between Redistribution and Environmental Protection: The Role of Information, Ideology, and Self-Interest](https://doi.org/10.1080/13501763.2020.1749715). Journal of European Public Policy 28 (4), 489-509.
 
 ### Work in Progress 
 
