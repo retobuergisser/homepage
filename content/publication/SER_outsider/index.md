@@ -29,9 +29,9 @@ publication_short: ""
 url_source: ""
 url_video: ""
 author_notes: []
-publication: "*Socio-Economic Review*"
+publication: "*Socio-Economic Review* 19(3), 1065–1094"
 featured: false
-date: 2019-08-07T00:00:00.000Z
+date: 2021-09-07T00:00:00.000Z
 url_slides: ""
 title: Insider–Outsider Representation and Social Democratic Labor Market Policy
 tags: []
@@ -40,7 +40,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: 10.1093/ser/mwz040
