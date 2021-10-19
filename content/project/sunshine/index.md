@@ -20,5 +20,6 @@ In this joint research project with Donato Di Carlo (MPIfG and EUI), we explore 
 ### Ongoing Work 
 
 * Tourism as a Developmental Strategy in Peripheral Economies (with Donato Di Carlo)
+* The Political Economy of Tourism-led Growth in Southern Europe (with Donato Di Carlo)
 
 
