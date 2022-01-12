@@ -20,8 +20,8 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 
 ### Publications
 
-* Ares, Macarena, Reto Bürgisser, and Silja Häusermann. 2021. [Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf). Journal of Elections, Public Opinion and Parties, 31 (1(S1)), 41-55.
 * Bremer, Björn and Reto Bürgisser. 2022. [Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities.](https://retobuergisser.com/publication/ejpr_debt/) European Journal of Political Research. Online First.
+* Ares, Macarena, Reto Bürgisser, and Silja Häusermann. 2021. [Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf). Journal of Elections, Public Opinion and Parties, 31 (1(S1)), 41-55.
 
 ### Current Working Papers
 
