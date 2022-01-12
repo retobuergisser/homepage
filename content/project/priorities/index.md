@@ -21,14 +21,10 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 ### Publications
 
 * Ares, Macarena, Reto Bürgisser, and Silja Häusermann. 2021. [Attitudinal Polarization Towards the Redistributive Role of the State in the Wake of the COVID-19 Pandemic](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf). Journal of Elections, Public Opinion and Parties, 31 (1(S1)), 41-55.
-
+* Bremer, Björn and Reto Bürgisser. 2022. [Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities. European Journal of Political Research.](https://retobuergisser.com/publication/ejpr_debt/) Online First.
 
 ### Current Working Papers
 
-* Do Citizens Care About Government Debt? Evidence from Survey Experiments on Budgetary Priorities (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/gw5ea)
 * Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments (with Björn Bremer, under review). [Current Version](https://osf.io/preprints/socarxiv/uj6eq)
-
-
-### Work in Progress
-
 * Is the Low Tax Doctrine Rooted in Public Opinion? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer).
+
