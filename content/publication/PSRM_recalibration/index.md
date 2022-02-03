@@ -6,7 +6,7 @@ authors:
   - Björn Bremer
   - admin
 doi: 10.1017/psrm.2021.78
-publication: "*Political Science Research and Methods*, Online First."
+publication: "*Political Science Research and Methods*, Online First"
 abstract: Reducing economic inequality and combatting climate change are two
   strongly supported policy goals, but they will require significant public
   investments. In times of limited fiscal resources, governments struggle to
