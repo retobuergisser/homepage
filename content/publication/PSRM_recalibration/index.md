@@ -1,19 +1,31 @@
-
 ---
-title: Do Citizens Care About Government Debt? Evidence From Survey Experiments on Budgetary Priorities
+title: "TITLE"
 publication_types:
   - "2"
 authors:
   - Björn Bremer
   - admin
-doi: 10.1111/1475-6765.12505
-publication: "*European Journal of Political Research*. Online First"
-abstract: "Ever since the Great Recession, public debt has become politicized. Some research suggests that citizens are fiscally conservative, while other research shows that they punish governments for implementing fiscal consolidation. This begs the question of whether and how much citizens care about debt. We argue that debt is not a priority for citizens because reducing it involves spending and tax trade-offs. Using a split-sample experiment and a conjoint experiment in four European countries, we show that fiscal consolidation at the cost of spending cuts or taxes hikes is less popular than commonly assumed. Revenue-based consolidation is especially unpopular, but expenditure-based consolidation is also contested. Moreover, the public has clear fiscal policy priorities: People do not favor lower debt and taxes, but they support higher progressive taxes to pay for more government spending. The paper furthers our understanding of public opinion on fiscal policies and the likely political consequences of austerity."
+doi: 10.1080/13501763.2020.1749715
+publication: "*Journal of European Public Policy* 28(4), 489-509"
+abstract: Reducing economic inequality and combatting climate change are two
+  strongly supported policy goals, but they will require significant public
+  investments. In times of limited fiscal resources, governments struggle to
+  raise additional revenues needed to finance both, making trade-offs between
+  generally supported policy goals likely. But how do citizens decide if they
+  have to choose between goals they support in principle, such as spending on
+  efforts to reduce inequality and channeling resources toward initiatives to
+  protect the environment? We discuss three major factors that help explain this
+  choice – information, self-interest, and ideological orientation. Our
+  experimental study shows that information is not a significant determinant of
+  such choices, and that ideology is only important as long as there are no
+  conflicting goals. Once citizens have to decide between redistribution and
+  environmental protection, myopic self-interest trumps all other theoretically
+  relevant variables mentioned in the literature.
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-01-11T13:37:25.794Z
+date: 2022-02-02T20:33:51.859Z
 ---
