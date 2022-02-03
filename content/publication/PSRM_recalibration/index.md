@@ -6,8 +6,21 @@ authors:
   - Björn Bremer
   - admin
 doi: 10.1017/psrm.2021.78
-publication: "*Political Science Research and Methods*, Online First"
-abstract: Even though social investment is highly popular, welfare state recalibration remains an uphill battle. When resources are scarce in times of austerity, welfare recalibration involves multidimensional trade-offs. Existing research primarily studied preferences toward individual policies or trade-offs in specific policy fields, failing to capture citizens’ overall social policy priorities. Using two novel survey experiments in three European countries, we show that citizens have clear social policy priorities: pensions and education enjoy a high, family policies a medium, and labor market policies a low priority. However, policy constitu- encies differ in their relative priorities. Our findings suggest that welfare state recalibration is difficult because trade-offs are unpopular, and distributive conflicts in mature welfare states are mainly about dis- tributing resources to specific social groups.
+publication: "*Political Science Research and Methods*, Online First."
+abstract: Reducing economic inequality and combatting climate change are two
+  strongly supported policy goals, but they will require significant public
+  investments. In times of limited fiscal resources, governments struggle to
+  raise additional revenues needed to finance both, making trade-offs between
+  generally supported policy goals likely. But how do citizens decide if they
+  have to choose between goals they support in principle, such as spending on
+  efforts to reduce inequality and channeling resources toward initiatives to
+  protect the environment? We discuss three major factors that help explain this
+  choice – information, self-interest, and ideological orientation. Our
+  experimental study shows that information is not a significant determinant of
+  such choices, and that ideology is only important as long as there are no
+  conflicting goals. Once citizens have to decide between redistribution and
+  environmental protection, myopic self-interest trumps all other theoretically
+  relevant variables mentioned in the literature.
 draft: false
 featured: false
 image:
