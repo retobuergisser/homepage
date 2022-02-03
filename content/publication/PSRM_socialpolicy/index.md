@@ -13,8 +13,9 @@ abstract: "Even though social investment is highly popular, welfare state recali
 draft: false
 featured: false
 image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2022-02-03T13:37:25.794Z
+filename: ""
+focal_point: Smart
+preview_only: false
+date: 2022-02-02T13:37:25.794Z
 ---
+
