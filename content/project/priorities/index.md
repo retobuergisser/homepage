@@ -27,4 +27,5 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 ### Current Working Papers
 
 * Is the Low Tax Doctrine Rooted in Public Opinion? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer).
+* Economic Redistribution or Social Inclusion? How Dimensions of Party Competition Affect Welfare State Reform Opportunities in Western Europe (with Macarena Ares, Matthias Enggist, Silja Häusermann, and Michael Pinggera). 
 
