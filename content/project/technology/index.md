@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-I am part of the NORFACE funded TECHNO project (PIs Henning Finseraas, Aina Gallego, Alexander Kuo, Silja Häusermann). 
+I am part of the [NORFACE TECHNO project](https://techno-norface.net/) (PIs Henning Finseraas, Aina Gallego, Alexander Kuo, Silja Häusermann). 
 
 Technological change and automation are disrupting labor markets in advanced democracies and rekindling fears about technological unemployment and how the future of work will be. While there is little doubt that rapid technological progress has far-reaching economic effects, its political consequences remain largely unexplored. The goal of this project is to study how technological change in the workplace contributes to ongoing deep political transformations, the adoption of policies to address change, and the political consequences of such policies.
 
@@ -21,4 +21,5 @@ Overall, the project will contribute to understanding how grievances generated b
 
 ### Work in Progress 
 
-* Mastering Technological Change: Towards a Conceptualization of Potential Policy Responses 
+* Policy Responses to Technological Change
+* Can Government Policies Moderate Political Backlash to Economic Change? (with Thomas Kurer and Silja Häusermann)
