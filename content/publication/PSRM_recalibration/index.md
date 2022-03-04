@@ -7,7 +7,7 @@ authors:
   - admin
 doi: 10.1017/psrm.2021.78
 publication: "*Political Science Research and Methods*, Online First"
-abstract: Even though social investment is highly popular, welfare state recalibration remains an uphill battle. When resources are scarce in times of austerity, welfare recalibration involves multidimensional trade-offs. Existing research primarily studied preferences toward individual policies or trade-offs in specific policy fields, failing to capture citizens’ overall social policy priorities. Using two novel survey experiments in three European countries, we show that citizens have clear social policy priorities: pensions and education enjoy a high, family policies a medium, and labor market policies a low priority. However, policy constitu- encies differ in their relative priorities. Our findings suggest that welfare state recalibration is difficult because trade-offs are unpopular, and distributive conflicts in mature welfare states are mainly about distributing resources to specific social groups.
+abstract: Even though social investment is highly popular, welfare state recalibration remains an uphill battle.
 draft: false
 featured: false
 image:
