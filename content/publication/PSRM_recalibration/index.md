@@ -7,7 +7,7 @@ authors:
   - admin
 doi: 10.1017/psrm.2021.78
 publication: "*Political Science Research and Methods*, Online First"
-abstract: .
+abstract: dfasdf adasf .
 draft: false
 featured: false
 image:
