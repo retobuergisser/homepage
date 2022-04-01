@@ -5,6 +5,7 @@ publication_types:
   - "6"
 authors:
   - admin
+doi: https://global.oup.com/academic/product/the-world-politics-of-social-investment-volume-2-9780197601457?lang=en&cc=ch
 publication: "in Garritzmann, J., S. Häusermann, and B. Palier (eds.). *The
   World Politics of Social Investment (Volume II): The Politics of Varying
   Social Investment Strategies.*  Oxford University Press"
