@@ -11,6 +11,13 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+
+#### Supervision
+
+* 5+ MA theses
+* 15+ BA theses
+
+
 #### University of Zurich
 
 * The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
