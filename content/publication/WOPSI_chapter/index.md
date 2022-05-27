@@ -5,7 +5,7 @@ publication_types:
   - "6"
 authors:
   - admin
-doi: 
+doi: 10.1093/oso/9780197601457.001.0001
 publication: "in Garritzmann, J., S. Häusermann, and B. Palier (eds.). *The
   World Politics of Social Investment (Volume II): The Politics of Varying
   Social Investment Strategies.*  Oxford University Press"
