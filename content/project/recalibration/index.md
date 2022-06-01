@@ -26,7 +26,7 @@ image:
 
 ### Related Publications
 
-* Bürgisser, Reto. Forthcoming. The Partisan Politics of Family and Labor Market Policy Reforms in Southern Europe. In: Garritzmann, Julian, Silja Häusermann, Bruno Palier (eds.): The World Politics of Social Investment (Volume II): The Politics of Varying Social Investment Strategies. Oxford: Oxford University Press.
+* Bürgisser, Reto. 2022. [The Partisan Politics of Family and Labor Market Policy Reforms in Southern Europe](https://doi.org/10.1093/oso/9780197601457.001.0001). In: Garritzmann, Julian, Silja Häusermann, Bruno Palier (eds.): The World Politics of Social Investment (Volume II): The Politics of Varying Social Investment Strategies. Oxford: Oxford University Press.
 * Bürgisser, Reto and Thomas Kurer. 2021. [Insider-Outsider Representation and Social Democratic Labor Market Policy](https://doi.org/10.1093/ser/mwz040). Socio-Economic Review, 19(3), 1065–1094. 
 
 ### Related Working Papers 
