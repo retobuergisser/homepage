@@ -21,17 +21,17 @@ design:
 #### University of Zurich
 
 * The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2021. Evaluation results: 5.3 (1-6 scale).
-* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. Evaluation result: 5.0 (1-6 scale).
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. Evaluation result: 5.7 (1-6 scale).
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2021.
+* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. 
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. 
 
 #### University of Bern
 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019. Evaluation result: 10.6 (1-11 scale).\
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019.\
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring Term 2019. Evaluation result: 5.7 (1-6 scale).\
+* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring Term 2019.\
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018. Evaluation result: 5.3 (1-6 scale).
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.
 
 #### European University Institute
 
