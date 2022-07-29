@@ -57,4 +57,4 @@ I am Postdoctoral Researcher at the Department of Political Science, University 
 
 My main research interests lie in the fields of political economy, comparative politics, and political behavior. I am particularly interested in the politics of welfare state and labor market reforms, fiscal and environmental policy preferences, technological change, and growth models. In my Ph.D., I have studied the politics of welfare state recalibration in Continental and Southern Europe over the last three decades. Currently, I am also part of the [NORFACE TECHNO](https://techno-norface.net/) and the [ERC Welfare Priorities](http://welfarepriorities.eu) projects. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_RetoBuergisser_Feb2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/burgisser_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
