@@ -23,5 +23,5 @@ In a previous project with Klaus Armingeon, I have studied how citizens decide i
 
 ### Working Papers
 
-* Do Information, Party Cues and Compensation Increase Popular Support for Green Taxes? Evidence from Survey Experiments in Switzerland (with Isabelle Stadelmann-Steffen and Klaus Armingeon).
+* Do Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon).
 
