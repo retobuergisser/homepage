@@ -41,5 +41,5 @@ design:
   view: 4
 ---
 
-## Click here to filter by [type of publication](./publication/).
+# [Click here to filter by type of publication](./publication/).
 
