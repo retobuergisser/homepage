@@ -41,5 +41,5 @@ design:
   view: 4
 ---
 
-## Quickly discover relevant content by [filtering publications](./publication/).
+## Click here to filter by [type of publication](./publication/).
 
