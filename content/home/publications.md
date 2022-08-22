@@ -41,5 +41,5 @@ design:
   view: 4
 ---
 
-Quickly discover relevant content by [filtering publications](./publication/).
+## Quickly discover relevant content by [filtering publications](./publication/).
 
