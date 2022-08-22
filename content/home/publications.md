@@ -13,6 +13,17 @@ title: Publications
 subtitle: ''
 
 content:
+ # Filter on criteria
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
