@@ -11,7 +11,7 @@ abstract: Even though social investment is highly popular, welfare state recalib
 draft: false
 featured: false
 url_pdf: ''
-url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
