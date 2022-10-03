@@ -14,27 +14,11 @@ design:
 
 #### University of Zurich
 
-* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2021.
-* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. 
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. 
+* [Turismo en el sur de Europa: potencial y peligros](https://agendapublica.elpais.com/noticia/18231/turismo-sur-europa-potencial-peligros)), Agenda Pública / El País, 19 September 2022
 
-#### University of Bern
+* [Tourism in southern Europe: potential and perils](https://socialeurope.eu/tourism-in-southern-europe-potential-and-perils), Social Europe, 13 September 2022
 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019.\
-  *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring Term 2019.\
-  *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.
 
-#### European University Institute
 
-* Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
-* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
-
-#### Supervision
-
-* 5+ MA theses
-* 15+ BA theses
 
 
