@@ -12,7 +12,7 @@ design:
     image_darken: 0
 ---
 
-#### University of Zurich
+#### Media contributions
 
 * [Turismo en el sur de Europa: potencial y peligros](https://agendapublica.elpais.com/noticia/18231/turismo-sur-europa-potencial-peligros)), Agenda Pública / El País, 19 September 2022
 
