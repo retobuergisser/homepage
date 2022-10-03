@@ -1,0 +1,40 @@
+---
+widget: blank
+widget_id: teach
+headless: true
+weight: 50
+title: Outreach
+active: true
+design:
+  columns: "2"
+  background:
+    text_color_light: false
+    image_darken: 0
+---
+
+#### University of Zurich
+
+* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2021.
+* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. 
+* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. 
+
+#### University of Bern
+
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019.\
+  *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
+* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring Term 2019.\
+  *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.
+
+#### European University Institute
+
+* Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
+* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
+
+#### Supervision
+
+* 5+ MA theses
+* 15+ BA theses
+
+
