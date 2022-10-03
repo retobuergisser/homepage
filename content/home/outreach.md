@@ -20,4 +20,5 @@ design:
 
 
 
+- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
 
