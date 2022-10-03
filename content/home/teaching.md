@@ -37,3 +37,7 @@ design:
 
 * Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
 * Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
+
+
+{{% staticref "media/burgisser_cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
