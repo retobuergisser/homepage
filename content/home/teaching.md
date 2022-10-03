@@ -41,3 +41,5 @@ design:
 
 {{% staticref "media/burgisser_cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
+url_pdf: media/burgisser_cv.pdf
+
