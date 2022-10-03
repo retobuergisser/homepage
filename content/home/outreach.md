@@ -18,7 +18,3 @@ design:
 [Tourism in southern Europe: potential and perils](https://socialeurope.eu/tourism-in-southern-europe-potential-and-perils), Social Europe, 13 September 2022
 
 
-
-
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-
