@@ -12,12 +12,6 @@ design:
     image_darken: 0
 ---
 
-#### Supervision
-
-* 5+ MA theses
-* 15+ BA theses
-
-
 #### University of Zurich
 
 * The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
@@ -38,8 +32,9 @@ design:
 * Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
 * Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
 
+#### Supervision
 
-{{% staticref "media/burgisser_cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+* 5+ MA theses
+* 15+ BA theses
 
-url_pdf: media/burgisser_cv.pdf
 
