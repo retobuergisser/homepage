@@ -11,7 +11,7 @@ authors:
   - Nadja Mosimann
   - Delia Zollinger
 doi: 
-url: https://www.nzz-libro.ch/waehlerschaft-und-perspektiven-der-sozialdemokratie-in-der-schweiz-978-3-907291-79-5#events
+url: [https://www.nzz-libro.ch/waehlerschaft-und-perspektiven-der-sozialdemokratie-in-der-schweiz-978-3-907291-79-5#events](https://www.nzz-libro.ch/Waehlerschaft-und-Perspektiven-der-Sozialdemokratie-in-der-Schweiz-978-3-907291-79-5?c=511)
 publication: "*NZZ Libro*"
 abstract: 
 draft: false
