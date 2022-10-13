@@ -15,14 +15,17 @@ publication: "*NZZ Libro*"
 abstract: 
 draft: false
 featured: false
-url_url: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
+links:
+- name: Link
+  url: http://example.org
+url_pdf: ''
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 image:
   filename: ""
   focal_point: Smart
