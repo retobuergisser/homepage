@@ -1,5 +1,5 @@
 ---
-title: "Wählerschaft und Perspektiven der Sozialdemokratie in der Schweiz"
+title: "*Wählerschaft und Perspektiven der Sozialdemokratie in der Schweiz*"
 publication_types:
   - "5"
 authors:
@@ -11,7 +11,7 @@ authors:
   - Nadja Mosimann
   - Delia Zollinger
 doi: 
-publication: "*NZZ Libro*"
+publication: "NZZ Libro"
 abstract: 
 draft: false
 featured: false
