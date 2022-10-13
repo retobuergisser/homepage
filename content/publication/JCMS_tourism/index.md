@@ -11,11 +11,11 @@ abstract: Despite being one of the world's major internationally traded services
 draft: false
 featured: false
 links:
-- name: Social Europe 
+- name: Media: Social Europe 
   url: https://socialeurope.eu/tourism-in-southern-europe-potential-and-perils
-- name: El País
+- name: Media: El País
   url: https://agendapublica.elpais.com/noticia/18231/turismo-sur-europa-potencial-peligros
-- name: Rivista il Mulino
+- name: Media: Rivista il Mulino
   url: https://www.rivistailmulino.it/a/turismo-volano-di-crescita-del-sud-europa  
 url_pdf: ''
 url_code: ''
