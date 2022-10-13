@@ -13,6 +13,10 @@ featured: false
 links:
 - name: Social Europe 
   url: https://socialeurope.eu/tourism-in-southern-europe-potential-and-perils
+- name: El País
+  url: https://agendapublica.elpais.com/noticia/18231/turismo-sur-europa-potencial-peligros
+- name: Rivista il Mulino
+  url: https://www.rivistailmulino.it/a/turismo-volano-di-crescita-del-sud-europa  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
