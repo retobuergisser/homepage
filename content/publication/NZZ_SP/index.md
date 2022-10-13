@@ -1,5 +1,5 @@
 ---
-title: "*Wählerschaft und Perspektiven der Sozialdemokratie in der Schweiz*"
+title: "Wählerschaft und Perspektiven der Sozialdemokratie in der Schweiz"
 publication_types:
   - "5"
 authors:
