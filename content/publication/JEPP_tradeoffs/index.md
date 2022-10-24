@@ -24,6 +24,8 @@ abstract: Reducing economic inequality and combatting climate change are two
   relevant variables mentioned in the literature.
 draft: false
 featured: false
+tags:
+  - Articles
 image:
   filename: ""
   focal_point: Smart
