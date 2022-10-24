@@ -26,6 +26,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+tags:
+  - Book Chapters
 image:
   filename: ""
   focal_point: Smart
