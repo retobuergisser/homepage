@@ -66,6 +66,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 2
 ---
 
