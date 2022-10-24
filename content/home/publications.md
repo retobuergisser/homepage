@@ -13,7 +13,7 @@ title: Publications
 subtitle: ''
 
 # Page type to display. E.g. project.
-page_type: project
+page_type: publication
 
 content:
  # Filter on criteria
