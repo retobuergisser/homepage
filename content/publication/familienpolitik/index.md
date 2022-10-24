@@ -12,6 +12,8 @@ featured: false
 links:
 - name: Link to Publisher 
   url: https://www.nzz-libro.ch/handbuch-der-schweizer-politik-manuel-de-la-politique-suisse-978-3-907291-72-6
+tags:
+  - Book Chapters
 image:
   filename: ""
   focal_point: Smart
