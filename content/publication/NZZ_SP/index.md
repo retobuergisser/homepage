@@ -30,5 +30,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+tags: "Books"
 date: 2022-10-10T20:33:51.859Z
 ---
