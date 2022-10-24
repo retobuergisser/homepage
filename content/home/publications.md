@@ -24,6 +24,22 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+  
+    # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Books
+      tag: Books
+    - name: Articles
+      tag: Articles
+
+  
+  
   # Page type to display. E.g. post, talk, publication...
   page_type: publication   
   # Choose how much pages you would like to display (0 = all pages)
@@ -40,6 +56,4 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-{{% callout note %}}
-[Click here to filter by type of publication](./publication/).
-{{% /callout %}}
+
