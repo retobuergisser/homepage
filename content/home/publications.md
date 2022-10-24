@@ -50,12 +50,17 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  
+  
 design:
-  # Choose a view for the listings:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
-  view: 4
+  #   5 = Showcase
+  view: 2
 ---
 
