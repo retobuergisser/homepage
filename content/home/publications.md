@@ -40,6 +40,4 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-{{% callout note %}}
-[Click here to filter by type of publication](./publication/).
-{{% /callout %}}
+
