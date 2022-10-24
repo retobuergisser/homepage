@@ -18,6 +18,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+tags:
+  - Articles
 image:
   filename: ""
   focal_point: Smart
