@@ -34,8 +34,9 @@ featured: false
 date: 2021-09-07T00:00:00.000Z
 url_slides: ""
 title: Insider–Outsider Representation and Social Democratic Labor Market Policy
-tags: []
 projects: []
+tags:
+  - Articles
 image:
   caption: ""
   focal_point: ""
