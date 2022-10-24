@@ -10,6 +10,8 @@ publication: "*Ph.D. Thesis.* Department of Political and Social Sciences,
 abstract: ""
 draft: false
 featured: false
+tags:
+  - PhD
 image:
   filename: ""
   focal_point: Smart
