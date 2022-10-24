@@ -33,10 +33,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Books
+      tag: Books
+    - name: Articles
+      tag: Articles
+    - name: Book Chapters
+      tag: Book Chapters  
  
    
    
