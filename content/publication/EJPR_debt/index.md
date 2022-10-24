@@ -1,6 +1,6 @@
 
 ---
-title: Do Citizens Care About Government Debt? Evidence From Survey Experiments on Budgetary Priorities
+title: "Do Citizens Care About Government Debt? Evidence From Survey Experiments on Budgetary Priorities"
 publication_types:
   - "2"
 authors:
