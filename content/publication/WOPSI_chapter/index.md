@@ -29,6 +29,8 @@ abstract: This chapter sheds light on the role of political parties as social
   fragmented political landscape.
 draft: false
 featured: false
+tags:
+  - Book Chapters
 image:
   filename: ""
   focal_point: Smart
