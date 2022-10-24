@@ -16,4 +16,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-01-11T13:37:25.794Z
+tags:
+  - Articles
 ---
