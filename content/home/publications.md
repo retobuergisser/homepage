@@ -42,6 +42,8 @@ content:
       tag: Articles
     - name: Book Chapters
       tag: Book Chapters  
+    - name: PhD Thesis
+      tag: PhD   
  
    
    
