@@ -65,7 +65,8 @@ design:
   #   1 = List
   #   2 = Compact
   #   3 = Card
+  #   4 = Publication
   #   5 = Showcase
-  view: 5
+  view: 4
 ---
 
