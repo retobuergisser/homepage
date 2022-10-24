@@ -12,21 +12,6 @@ weight: 20
 title: Publications
 subtitle: ''
 
-# Page type to display. E.g. project.
-page_type: publication
-
-content:
- # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
     
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -45,18 +30,7 @@ content:
     - name: PhD Thesis
       tag: PhD   
  
-   
-   
-  # Page type to display. E.g. post, talk, publication...
-  page_type: publication   
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-  
-  
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
