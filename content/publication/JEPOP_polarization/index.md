@@ -28,6 +28,8 @@ abstract: "The COVID-19 crisis presents a unique opportunity to study how public
   to imply heightened conflict over economic and social policy in the future."
 draft: false
 featured: false
+tags:
+  - Articles
 image:
   filename: ""
   focal_point: Smart
