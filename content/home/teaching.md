@@ -14,6 +14,7 @@ design:
 
 #### University of Zurich
 
+* The Political Economy of Climate Change, MA Seminar, Spring Term 2023.
 * The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
 * Political Consequences of Technological Change, MA Seminar, Spring Term 2021.
 * Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. 
