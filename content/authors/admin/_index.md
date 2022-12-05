@@ -16,6 +16,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RetoBuergisser
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mstdn.social/@retobuergisser  
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de&oi=ao
