@@ -26,6 +26,6 @@ Second, I have recently joined the [ERC Welfare Priorities](http://welfarepriori
 
 ### Current Working Papers
 
-* Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft]([https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf](https://osf.io/preprints/socarxiv/e6ds9/)
+* Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft](https://retobuergisser.com/publication/jepop_polarization/JEPOP_polarization.pdf](https://osf.io/preprints/socarxiv/e6ds9/). 
 * Universalism of the Young, Universalism of the Old: Universalists, Particularists and Welfare Preferences (with Matthias Enggist, Silja Häusermann, and Michael Pinggera). 
 
