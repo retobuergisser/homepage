@@ -15,7 +15,7 @@ In this joint research project with Donato Di Carlo (MPIfG and EUI), we explore 
 
 ### Publications
 
-* Reto Bürgisser and Donato Di Carlo. 2023. [Blessing or Curse? The Rise of Tourism-Led Growth in Europe's Southern Periphery.](https://retobuergisser.com/publication/jcms_tourism/) Journal of Common Market Studies 61(1), 236-258.
+* Reto Bürgisser and Donato Di Carlo. 2023. [Blessing or Curse? The Rise of Tourism-Led Growth in Europe's Southern Periphery.](https://retobuergisser.com/publication/jcms_tourism/) _Journal of Common Market Studies_ 61(1), 236-258.
 
 ### Current Working Papers
 
