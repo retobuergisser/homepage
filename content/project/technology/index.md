@@ -21,5 +21,5 @@ Overall, the project will contribute to understanding how grievances generated b
 
 ### Work in Progress 
 
-* Policy Responses to Technological Change
+* Policy Responses to Technological Change in the Workplace. 
 * Can Government Policies Moderate Political Backlash to Economic Change? (with Thomas Kurer and Silja Häusermann)
