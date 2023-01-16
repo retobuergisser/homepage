@@ -2,7 +2,7 @@
 title: "Policy Responses to Technological
 Change in the Workplace"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
 doi: 
