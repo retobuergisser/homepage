@@ -21,7 +21,7 @@ Overall, the project will contribute to understanding how grievances generated b
 
 ### Working Paper
 
-* Bürgisser, Reto (2023). Policy Responses to Technological Change in the Workplace. [JRC Working Papers Series on Social Classes in the Digital Age](https://joint-research-centre.ec.europa.eu/publications/policy-responses-technological-change-workplace_en) 2023/04, 1-21.
+* Bürgisser, Reto (2023). Policy Responses to Technological Change in the Workplace. [JRC Working Papers Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/) 2023/04, 1-21.
 
 ### Work in Progress 
 
