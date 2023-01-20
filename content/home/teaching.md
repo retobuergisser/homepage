@@ -35,7 +35,7 @@ design:
 
 #### Supervision
 
-* 5+ MA theses
+* 10+ MA theses
 * 15+ BA theses
 
 
