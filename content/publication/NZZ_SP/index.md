@@ -20,6 +20,10 @@ links:
   url: https://www.nzz-libro.ch/Waehlerschaft-und-Perspektiven-der-Sozialdemokratie-in-der-Schweiz-978-3-907291-79-5?c=511
 - name: "Policy Briefs: Anny Klawa-Morf" 
   url: https://anny-klawa-morf.ch/wahlerschaft-sozialdemokratie
+- name: "DeFacto 1" 
+  url: https://www.defacto.expert/2022/11/16/waehlerwanderungen-rund-um-die-schweizer-sozialdemokratie/   
+- name: "DeFacto 2" 
+  url: https://www.defacto.expert/2022/11/16/das-waehlerpotenzial-der-schweizer-sozialdemokratie/ 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
