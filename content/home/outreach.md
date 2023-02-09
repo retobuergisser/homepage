@@ -29,5 +29,7 @@ design:
 
 * [Das Wählerpotenzial der Schweizer Sozialdemokratie]( https://anny-klawa-morf.ch/wahlerschaft-sozialdemokratie/), Anny-Klawa-Morf Policy Brief, November 2022.
 
-* [Wählerwanderungen rund um die Schweizer Sozialdemokratie]( https://anny-klawa-morf.ch/wahlerschaft-sozialdemokratie/), Anny-Klawa-Morf Policy Brief, November 2022.
+* [Wählerwanderungen rund um die Schweizer Sozialdemokratie](https://anny-klawa-morf.ch/wahlerschaft-sozialdemokratie/), Anny-Klawa-Morf Policy Brief, November 2022.
+
+* [Analyse der Eidgenössischen Abstimmung vom 18. Mai 2014](https://swissvotes.ch/vote/583.00/nachbefragung-de.pdf?term=Mindestlohn) 
 
