@@ -36,17 +36,13 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Political and Social Sciences
-      institution: European University Institute
+    - course: PhD European University Institute
       year: 2019
-    - course: MRes in Political and Social Sciences
-      institution: European University Institute
+    - course: MRes European University Institute
       year: 2015
-    - course: MA in Political Science and Sociology
-      institution: University of Zurich
+    - course: MA University of Zurich
       year: 2013
-    - course: BA in Political Science and Sociology
-      institution: University of Zurich
+    - course: BA University of Zurich
       year: 2011
 superuser: true
 highlight_name: false
