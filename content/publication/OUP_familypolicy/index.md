@@ -10,8 +10,6 @@ abstract: "This chapter analyzes structures, processes, and actors of health pol
 draft: false
 featured: false
 links:
-- name: Link to Publisher 
-  url: 
 tags:
   - Book Chapters
 image:
