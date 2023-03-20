@@ -14,7 +14,7 @@ design:
 
 #### Media
 
-* [Migration de l’électorat autour de la social-démocratie suisse](https://www.defacto.expert/2023/03/01/le-potentiel-electoral-de-la-social-democratie-suisse/?lang=fr](https://www.defacto.expert/2023/03/02/migration-de-lelectorat-autour-de-la-social-democratie-suisse/?lang=fr), DeFacto, 2 March 2023.
+* [Migration de l’électorat autour de la social-démocratie suisse](https://www.defacto.expert/2023/03/02/migration-de-lelectorat-autour-de-la-social-democratie-suisse/?lang=fr), DeFacto, 2 March 2023.
 
 * [Le potentiel électoral de la social-démocratie suisse](https://www.defacto.expert/2023/03/01/le-potentiel-electoral-de-la-social-democratie-suisse/?lang=fr), DeFacto, 1 March 2023.
 
