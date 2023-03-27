@@ -39,3 +39,11 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+#### Book Project
+
+* The Politics of Welfare State Recalibration in Continental and Southern Europe (based on my Ph.D. thesis)
+
+
+
+
