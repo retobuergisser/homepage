@@ -58,14 +58,11 @@ design:
 * Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer).
 * Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon)
 
-#### Social Policy Preferences  
+#### Welfare State 
 
 * How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring)
 * Age, Universalism-Particularism and Welfare Preferences (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
-
-#### Social Democracy 
-
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
 * Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
