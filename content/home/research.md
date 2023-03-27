@@ -66,7 +66,7 @@ design:
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
 * Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
-#### Tourism 
+#### The Political Economy of Tourism-Led Growth 
 
 * Sunshine States in World Markets: When States Capitalize on their Comparative Advantage in Tourism (with Donato di Carlo)
 * Tourism as a Developmental Strategy in Peripheral Economies (with Donato Di Carlo)
