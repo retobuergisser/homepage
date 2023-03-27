@@ -46,4 +46,34 @@ design:
 
 
 
+#### Technological Change 
+
+* Can Policy Interventions Moderate Political Backlash to Technological Change? (with Thomas Kurer and Silja Häusermann)
+* Digitalization at the Workplace: Panel-Evidence from Apprentices in White-Collar Office Jobs (with Thomas Kurer)
+* Support for the EU’s Next Generation Digitalization Initiative (with Aina Gallego, Alex Kuo, and Silja Häusermann)
+
+
+#### Taxation 
+
+* Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer).
+* Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon)
+
+#### Social Policy Preferences  
+
+* How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring)
+* Age, Universalism-Particularism and Welfare Preferences (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
+* How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
+
+#### Social Democracy 
+
+* Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
+* Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
+
+#### Tourism 
+
+* Sunshine States in World Markets: When States Capitalize on their Comparative Advantage in Tourism (with Donato di Carlo)
+* Tourism as a Developmental Strategy in Peripheral Economies (with Donato Di Carlo)
+
+
+
 
