@@ -70,7 +70,7 @@ design:
 * Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft](https://osf.io/preprints/socarxiv/e6ds9/)
 * Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
-#### The Political Economy of Tourism-Led Growth 
+#### Political Economy of Tourism-Led Growth 
 
 * Sunshine States in World Markets: When States Capitalize on their Comparative Advantage in Tourism (with Donato di Carlo)
 * Tourism as a Developmental Strategy in Peripheral Economies (with Donato Di Carlo)
