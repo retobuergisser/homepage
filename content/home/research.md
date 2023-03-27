@@ -53,10 +53,6 @@ design:
 * Digitalization at the Workplace: Panel-Evidence from Apprentices in White-Collar Office Jobs (with Thomas Kurer)
 * Support for the EU’s Next Generation Digitalization Initiative (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 
-#### Fiscal Policy 
-
-* Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft](https://osf.io/preprints/socarxiv/e6ds9/)
-
 #### Political Economy of Climate Change 
 
 * Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon)
@@ -68,6 +64,10 @@ design:
 * Age, Universalism-Particularism and Welfare Preferences (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
+
+#### Fiscal Policy 
+
+* Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft](https://osf.io/preprints/socarxiv/e6ds9/)
 * Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
 #### The Political Economy of Tourism-Led Growth 
