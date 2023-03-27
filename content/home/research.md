@@ -53,11 +53,14 @@ design:
 * Digitalization at the Workplace: Panel-Evidence from Apprentices in White-Collar Office Jobs (with Thomas Kurer)
 * Support for the EU’s Next Generation Digitalization Initiative (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 
-
-#### Taxation 
+#### Fiscal Policy 
 
 * Lower Taxes At All Costs? Evidence from a Survey Experiment in Four European Countries (with Björn Bremer). [Draft](https://osf.io/preprints/socarxiv/e6ds9/)
+
+#### Political Economy of Climate Change 
+
 * Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon)
+* Decarbonization Risk and Political Backlash
 
 #### Welfare State 
 
