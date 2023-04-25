@@ -40,7 +40,7 @@ education:
     - course: MRes European University Institute
       year: 2015
     - course: MA University of Zurich
-      year: 2013
+      year: 2014
     - course: BA University of Zurich
       year: 2011
 superuser: true
