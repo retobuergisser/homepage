@@ -49,7 +49,7 @@ design:
 #### Technological Change 
 
 * Policy Responses to Technological Change in the Workplace. [JRC Working Paper Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/). 2023.
-* Can Policy Interventions Moderate Political Backlash to Technological Change? (with Thomas Kurer and Silja Häusermann)
+* Can Policy Interventions Moderate Political Backlash to Structural Change? (with Thomas Kurer and Silja Häusermann)
 * White Collar Automation: Labor Market Entry and Political Preferences (with Thomas Kurer)
 * Support for the EU’s Next Generation Digitalization Initiative (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 
@@ -61,7 +61,7 @@ design:
 #### Welfare State 
 
 * How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring)
-* Age, Universalism-Particularism and Welfare Preferences (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
+* Generational Variation in Welfare Preferences across the GALTAN Divide (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
 
