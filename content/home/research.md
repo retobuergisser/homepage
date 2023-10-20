@@ -56,6 +56,8 @@ design:
 #### Political Economy of Climate Change 
 
 * Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon)
+* Are People Willing to Pay for the Twin Transition? Media Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
+* Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
 * Decarbonization Risk and Political Backlash
 
 #### Welfare State 
