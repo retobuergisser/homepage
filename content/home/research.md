@@ -62,7 +62,7 @@ design:
 
 #### Welfare State 
 
-* How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring)
+* How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring). [URPP Equality of Opportunity Discussion Paper Series #37](https://www.urpp-equality.uzh.ch/dam/jcr:21c1e50b-9669-42e0-b93e-005bc95465e4/37_Buergisser_Eisenring_Haeusermann_DistEffects.pdf))
 * Generational Variation in Welfare Preferences across the GALTAN Divide (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
