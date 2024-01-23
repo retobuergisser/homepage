@@ -45,7 +45,6 @@ design:
 * The Politics of Welfare State Recalibration in Continental and Southern Europe (based on my Ph.D. thesis)
 
 
-
 #### Technological Change 
 
 * Policy Responses to Technological Change in the Workplace. [JRC Working Paper Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/). 2023.
