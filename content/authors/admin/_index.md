@@ -50,6 +50,6 @@ email: ""
 
 I am a Postdoctoral Researcher in the Department of Political Science (IPZ) at the University of Zurich. Previously, I was a Postdoctoral Researcher at the University of Bern. I hold a Ph.D. from the European University Institute.
 
-My research lies at the intersection of political economy, comparative politics, and public policy. I am interested in how governments enact and citizens evaluate inclusive and sustainable economic, social, and environmental policies and their subsequent political implications. Currently, I am part of the [NORFACE TECHNO](https://techno-norface.net/) and the [ERC Welfare Priorities](http://welfarepriorities.eu) projects. 
+My research focuses on the intersection of political economy, comparative politics, and public policy. I explore how governments navigate and manage the digital and green transitions, how citizens perceive and assess inclusive and sustainable economic, social, and environmental policies, and the political implications that arise from these policy decisions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/burgisser_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
