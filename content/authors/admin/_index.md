@@ -5,9 +5,9 @@ bio: My research interests include political economy, comparative politics, and
   political behavior.
 interests:
   - Welfare States & Labor Markets
-  - Fiscal & Environmental Policy
+  - Fiscal Policy
   - Technological Change
-  - Growth Models
+  - Green Transition
 social:
   - icon: envelope
     icon_pack: fas
