@@ -50,6 +50,6 @@ email: ""
 
 I am a Postdoctoral Researcher in the Department of Political Science (IPZ) at the University of Zurich. Previously, I was a Postdoctoral Researcher at the University of Bern. I hold a Ph.D. from the European University Institute.
 
-My research lies at the intersection of political economy, economic sociology, and political behavior. I explore how governments navigate and manage the digital and green transitions, how citizens perceive and assess inclusive and sustainable economic, social, and environmental policies, and the political ramifications of these policy interventions.
+My research lies at the intersection of political economy, economic sociology, and political behavior. I explore how governments navigate and manage the digital and green transitions, how citizens perceive and assess inclusive and sustainable economic, social, and environmental policies, and the social and political ramifications of these policy interventions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/burgisser_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
