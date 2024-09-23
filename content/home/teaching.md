@@ -14,6 +14,7 @@ design:
 
 #### University of Zurich
 
+* Advanced Swiss Politics, BA Lecture, Fall Term 2024.
 * The Political Economy of Climate Change, MA Seminar, Spring Term 2024.
 * The Political Economy of Climate Change, MA Seminar, Spring Term 2023.
 * The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
