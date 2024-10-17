@@ -52,6 +52,13 @@ design:
 * White Collar Automation: Labor Market Entry and Political Preferences (with Thomas Kurer)
 * Support for Digitalization Policies: Evidence from the EU’s Next Generation Program (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 
+#### Political Economy of Climate Change 
+
+* Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon). [Preprint](https://osf.io/preprints/socarxiv/8e9bn).
+* The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
+* Elite Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
+* Decarbonization and Political Backlash
+
 #### Welfare State 
 
 * How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring). [URPP Equality of Opportunity Discussion Paper Series #37](https://www.urpp-equality.uzh.ch/dam/jcr:21c1e50b-9669-42e0-b93e-005bc95465e4/37_Buergisser_Eisenring_Haeusermann_DistEffects.pdf).
@@ -59,16 +66,6 @@ design:
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * The Relational Aspect of Social Investment: Evidence from Recipients' Evaluations of a French Active Labor Market Policy (with Paulus Wagner and Thomas Kurer)
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
-
-#### Political Economy of Climate Change 
-
-* Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon). [Preprint](https://osf.io/preprints/socarxiv/8e9bn).
-* Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
-* Are People Willing to Pay for the Twin Transition? Media Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
-* Decarbonization and Political Backlash
-
-#### Fiscal Policy 
-
 * Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
 #### Political Economy of Tourism-Led Growth 
