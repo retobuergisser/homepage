@@ -55,7 +55,6 @@ design:
 
 #### Political Economy of Climate Change 
 
-* Can Information, Party Cues, and Compensation Increase Mass Support for Green Taxes? (with Isabelle Stadelmann-Steffen and Klaus Armingeon). [Preprint](https://osf.io/preprints/socarxiv/8e9bn).
 * The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
 * Elite Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
 * Decarbonization and Political Backlash
