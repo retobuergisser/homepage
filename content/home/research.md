@@ -57,16 +57,15 @@ design:
 
 * The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
 * Elite Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
-* Decarbonization and Political Backlash
+* Decarbonization and Political Backlash: Evidence from France. 
 
 #### Welfare State 
 
 * How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring). [URPP Equality of Opportunity Discussion Paper Series #37](https://www.urpp-equality.uzh.ch/dam/jcr:21c1e50b-9669-42e0-b93e-005bc95465e4/37_Buergisser_Eisenring_Haeusermann_DistEffects.pdf).
-* Generational Variation in Welfare Preferences across the GALTAN Divide (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
+* The Welfare Preferences of Socially Liberal and Socially Conservative Voters (with Matthias Enggist, Silja Häusermann and Michael Pinggera)
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * The Relational Aspect of Social Investment: Evidence from Recipients' Evaluations of a French Active Labor Market Policy (with Paulus Wagner and Thomas Kurer)
 * Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
-* Class Constituencies of Liberalizing and De-liberalizing Social Democratic Parties in Government (with Klaus Armingeon)
 
 #### Political Economy of Tourism-Led Growth 
 
