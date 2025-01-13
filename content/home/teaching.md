@@ -14,6 +14,8 @@ design:
 
 #### University of Zurich
 
+* Social democracy in the 21st century in Switzerland and Europe, BA Seminar, Spring Term 2025.
+* The Political Economy of Climate Change, MA Seminar, Spring Term 2025.
 * Swiss Politics in Comparative Perspective, BA Lecture, Fall Term 2024.
 * The Political Economy of Climate Change, MA Seminar, Spring Term 2024.
 * The Political Economy of Climate Change, MA Seminar, Spring Term 2023.
