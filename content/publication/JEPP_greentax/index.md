@@ -13,7 +13,7 @@ draft: false
 featured: false
 links:
 - name: "Replication"
-  url: https://doi.org/10.1080/13501763.2024.2444332
+  url: https://doi.org/10.7910/DVN/LSCNGO
 url_pdf: ''
 url_code: ''
 url_dataset: ''
