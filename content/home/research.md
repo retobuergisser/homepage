@@ -50,7 +50,7 @@ design:
 * Policy Responses to Technological Change in the Workplace. [JRC Working Paper Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/).
 * Can Government Policies Moderate Political Backlash to Structural Change? (with Thomas Kurer, Silja Häusermann, Susana de Pinho Tavares)
 * White Collar Automation: Labor Market Entry and Political Preferences (with Thomas Kurer)
-* Support for Digitalization Policies: Evidence from the EU’s Next Generation Program (with Aina Gallego, Alex Kuo, and Silja Häusermann)
+* Who Wants to Accelerate Digitalization? Evidence from the Next Generation EU Program (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 * The Political Conflict Potential of Digitalization (with Álvaro Canalejo-Molero, Mathilde M. van Ditmars, and Alexander H. Trechsel) 
 
 #### Political Economy of Climate Change 
