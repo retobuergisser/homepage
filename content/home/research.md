@@ -53,7 +53,7 @@ design:
 * Who Wants to Accelerate Digitalization? Evidence from the Next Generation EU Program (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 * The Political Conflict Potential of Digitalization (with Álvaro Canalejo-Molero, Mathilde M. van Ditmars, and Alexander H. Trechsel) 
 
-#### Political Economy of Climate Change 
+#### Climate Change
 
 * The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
 * Elite Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
