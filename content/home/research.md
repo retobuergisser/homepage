@@ -56,7 +56,7 @@ design:
 #### Climate Change
 
 * The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
-* Elite Discourse and Mass Attitudes Towards Green and Digital Industrial Policies (with Björn Bremer, Fabio Bulfone, and Timo Seidl)
+* How People Reason About Industrial Policy (with Björn Bremer, Fabio Bulfone, Donato di Carlo, and Timo Seidl)
 * Decarbonization and Political Backlash: Evidence from France. 
 
 #### Welfare State 
