@@ -14,28 +14,28 @@ design:
 
 #### University of Zurich
 
-* Social democracy in the 21st century in Switzerland and Europe, BA Seminar, Spring Term 2025.
-* The Political Economy of Climate Change, MA Seminar, Spring Term 2025.
-* Swiss Politics in Comparative Perspective, BA Lecture, Fall Term 2024.
-* The Political Economy of Climate Change, MA Seminar, Spring Term 2024.
-* The Political Economy of Climate Change, MA Seminar, Spring Term 2023.
-* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring Term 2021/2022.
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2021.
-* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring Term 2020. 
-* Political Consequences of Technological Change, MA Seminar, Spring Term 2020. 
+* Social democracy in the 21st century in Switzerland and Europe, BA Seminar, Spring 2025.
+* The Political Economy of Climate Change, MA Seminar, Spring 2025.
+* Swiss Politics in Comparative Perspective, BA Lecture, Fall 2024.
+* The Political Economy of Climate Change, MA Seminar, Spring 2024.
+* The Political Economy of Climate Change, MA Seminar, Spring 2023.
+* The Politics of the Welfare State, BA Specialization Seminar, Fall/Spring 2021/2022.
+* Political Consequences of Technological Change, MA Seminar, Spring 2021.
+* Swiss Economic and Social Policy in Comparative Perspective, BA Seminar, Spring 2020. 
+* Political Consequences of Technological Change, MA Seminar, Spring 2020. 
 
 #### University of Bern
 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2019.\
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall 2019.\
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring Term 2019.\
+* States and Markets: Introduction to Comparative Political Economy, BA Seminar, Spring 2019.\
   *Awarded with the Excellence in Teaching Award by the Faculty of Business, Economics, and Social Science.* 
-* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall Term 2018.
+* Causes and Consequences of the Crisis in Southern Europe, BA Seminar, Fall 2018.
 
 #### European University Institute
 
-* Introduction to Quantitative Methods, Ph.D. Seminar, Fall Term 2015 (with Fabrizio Bernardi). 
-* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall Term 2015.
+* Introduction to Quantitative Methods, Ph.D. Seminar, Fall 2015 (with Fabrizio Bernardi). 
+* Catch-Up Course in Data Analysis, Ph.D. Block Seminar, Fall 2015.
 
 #### Supervision
 
