@@ -6,7 +6,7 @@ authors:
   - Björn Bremer
   - admin
 doi: 10.1080/13501763.2024.2333856
-publication: "*Journal of European Public Policy*"
+publication: "*Journal of European Public Policy* 32(5), 1225-1252"
 abstract: "It is commonly argued that citizens favour lower taxes, thereby exerting pressure for tax reductions that undermine the ability of governments to raise revenues. We argue that the ostensibly strong support for lower taxes is the result of survey measures that fail to account for fiscal trade-offs. An original survey experiment conducted in Germany, Italy, Spain, and the United Kingdom reveals that support for lower taxes declines significantly when this comes into conflict with other fiscal policy objectives, such as government spending, public debt, or other taxes. Overall, regressive changes receive less support than progressive reforms. At the individual level, preferences are shaped by self-interest and ideology, with ideology exerting a predominant influence. Notably, left-leaning, high-income voters exhibit an even stronger inclination to resist tax reductions compared to their low-income counterparts. Our findings challenge the assumption that tax cuts enjoy widespread popularity and suggest the potential for a progressive coalition against tax cuts, encompassing both low-income and affluent left-wing individuals."
 draft: false
 featured: false
@@ -27,5 +27,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2024-04-01T20:33:51.859Z
+date: 2025-04-01T20:33:51.859Z
 ---
