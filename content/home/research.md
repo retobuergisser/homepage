@@ -47,8 +47,8 @@ design:
 
 #### Technological Change 
 
+* Can Government Policies Moderate Political Backlash to Structural Change? (with Thomas Kurer, Silja Häusermann, Susana de Pinho Tavares). [URPP Equality of Opportunity Discussion Paper Series #67](https://www.urpp-equality.uzh.ch/dam/jcr:ecaf379a-45f9-4df9-bbea-a2d21fafe831/67_Techno_CSP_Paper-1.pdf). 
 * Policy Responses to Technological Change in the Workplace. [JRC Working Paper Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/).
-* Can Government Policies Moderate Political Backlash to Structural Change? (with Thomas Kurer, Silja Häusermann, Susana de Pinho Tavares)
 * White Collar Automation: Labor Market Entry and Political Preferences (with Thomas Kurer)
 * Who Wants to Accelerate Digitalization? Evidence from the Next Generation EU Program (with Aina Gallego, Alex Kuo, and Silja Häusermann)
 * The Political Conflict Potential of Digitalization (with Álvaro Canalejo-Molero, Mathilde M. van Ditmars, and Alexander H. Trechsel) 
