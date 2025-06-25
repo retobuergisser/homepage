@@ -42,7 +42,7 @@ design:
 
 #### Book Project
 
-* The Politics of Welfare State Recalibration in Continental and Southern Europe (based on my Ph.D. thesis)
+* The Politics of Welfare State Recalibration in Continental and Southern Europe 
 
 
 #### Technological Change 
