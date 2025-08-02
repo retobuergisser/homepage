@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Researcher
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include political economy, comparative politics, and
   political behavior.
@@ -25,7 +25,7 @@ social:
     icon_pack: ai
     link: https://publons.com/researcher/4674042/reto-burgisser/     
 organizations:
-  - name: University of Zurich
+  - name: University of Vienna
     url: ""
 education:
   courses:
@@ -45,8 +45,8 @@ email: ""
 
 ### Welcome!
 
-I am a Postdoctoral Researcher in the Department of Political Science (IPZ) at the University of Zurich. Previously, I was a Postdoctoral Researcher at the University of Bern. I hold a Ph.D. from the European University Institute.
+I am an Assistant Professor in the Department of Government at the University of Vienna. Previously,  I was a Postdoctoral Researcher in the Department of Political Science (IPZ) at the University of Zurich and in the Institute of Political Science (IPW) at the University of Bern. I hold a Ph.D. from the European University Institute.
 
-My research lies at the intersection of political economy, comparative politics, and political behavior. I explore how governments navigate and manage the digital and green transitions, how citizens perceive and assess inclusive and sustainable economic, social, and environmental policies, and the social and political ramifications of these policy interventions.
+My research sits at the intersection of political economy, comparative politics, and political behavior. I study how governments manage the digital and green transitions, how citizens perceive and evaluate inclusive and sustainable economic, social, and environmental policies, and the broader social and political consequences of these interventions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/burgisser_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
