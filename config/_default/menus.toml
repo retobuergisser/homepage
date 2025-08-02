@@ -35,9 +35,5 @@
     url = "media/burgisser_cv.pdf"
     weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
 
 
