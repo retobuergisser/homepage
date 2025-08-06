@@ -25,7 +25,7 @@ social:
     icon_pack: ai
     link: https://publons.com/researcher/4674042/reto-burgisser/     
 organizations:
-  - name: Department of Government, University of Vienna
+  - name: University of Vienna
     url: ""
 education:
   courses:
