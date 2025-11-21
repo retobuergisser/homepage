@@ -14,7 +14,7 @@ design:
 
 #### Media
 
-* [La economía de España se acerca a la trampa del turismo: "Es una señal de que todo lo demás está fallando"]([https://www.defacto.expert/2023/03/02/migration-de-lelectorat-autour-de-la-social-democratie-suisse/?lang=fr](https://www.eleconomista.es/economia/noticias/13474990/07/25/la-economia-de-espana-se-acerca-a-la-trampa-del-turismo-es-una-senal-de-que-todo-lo-demas-esta-fallando.html)), El Economista, 23 July 2025.
+* [La economía de España se acerca a la trampa del turismo: "Es una señal de que todo lo demás está fallando"](https://www.eleconomista.es/economia/noticias/13474990/07/25/la-economia-de-espana-se-acerca-a-la-trampa-del-turismo-es-una-senal-de-que-todo-lo-demas-esta-fallando.html), El Economista, 23 July 2025.
 
 * [Migration de l’électorat autour de la social-démocratie suisse](https://www.defacto.expert/2023/03/02/migration-de-lelectorat-autour-de-la-social-democratie-suisse/?lang=fr), DeFacto, 2 March 2023.
 
