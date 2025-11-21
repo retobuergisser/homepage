@@ -16,7 +16,9 @@ links:
 - name: "Media: El País"
   url: https://agendapublica.elpais.com/noticia/18231/turismo-sur-europa-potencial-peligros
 - name: "Media: Rivista il Mulino"
-  url: https://www.rivistailmulino.it/a/turismo-volano-di-crescita-del-sud-europa  
+  url: https://www.rivistailmulino.it/a/turismo-volano-di-crescita-del-sud-europa
+- name: "Media: El Economista"
+  url: https://www.eleconomista.es/economia/noticias/13474990/07/25/la-economia-de-espana-se-acerca-a-la-trampa-del-turismo-es-una-senal-de-que-todo-lo-demas-esta-fallando.html  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
