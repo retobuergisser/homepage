@@ -12,6 +12,10 @@ design:
     image_darken: 0
 ---
 
+#### University of Vienna
+
+* Bachelor Thesis Seminar, BA Seminar, Winter 2025/2026.
+
 #### University of Zurich
 
 * Social democracy in the 21st century in Switzerland and Europe, BA Seminar, Spring 2025.
