@@ -14,7 +14,7 @@ design:
 
 #### University of Vienna
 
-* Political Consequences of Technological Change, Summer 2026. 
+* Political Consequences of Technological Change, MA Research Seminar, Summer 2026. 
 * Bachelor Thesis Seminar, BA Seminar, Winter 2025/2026.
 
 #### University of Zurich
