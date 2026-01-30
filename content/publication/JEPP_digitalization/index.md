@@ -15,6 +15,8 @@ featured: false
 links:
 - name: "Replication"
   url: https://doi.org/10.7910/DVN/Y8JLWJ
+- name: "Preprint"
+  url: https://retobuergisser.com/media/KuoEtAl_2026_JEPP_Preprint.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
