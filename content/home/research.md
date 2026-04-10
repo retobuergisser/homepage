@@ -54,7 +54,7 @@ design:
 
 #### Climate Change
 
-* The Limits of Compensation: Perceived Climate Change Vulnerability and Environmental Policy Preferences (with Benedikt Seisl) 
+* Winning Over the Vulnerable? Perceived Vulnerability, Tailored Policy Packages, and Support for Climate Action (with Benedikt Seisl) 
 * How People Reason About Industrial Policy (with Björn Bremer, Fabio Bulfone, Donato di Carlo, and Timo Seidl)
 * Decarbonization and Political Backlash: Evidence from France. 
 
