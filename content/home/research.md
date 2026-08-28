@@ -63,7 +63,6 @@ design:
 * How Perceived Distributive Effects Shape Labor Market Policy Support (with Silja Häusermann and Fabienne Eisenring). [URPP Equality of Opportunity Discussion Paper Series #37](https://www.urpp-equality.uzh.ch/dam/jcr:21c1e50b-9669-42e0-b93e-005bc95465e4/37_Buergisser_Eisenring_Haeusermann_DistEffects.pdf).
 * How Can Solidaristic Reforms Succeed? A Case Study of the German Grundrentereform (with Fabienne Eisenring and Silja Häusermann)
 * The Relational Aspect of Social Investment: Evidence from Recipients' Evaluations of a French Active Labor Market Policy (with Paulus Wagner and Thomas Kurer)
-* Social Democracy, Intra-Party Class Heterogeneity, and Labor Market Reforms
 
 #### Political Economy of Tourism-Led Growth 
 
