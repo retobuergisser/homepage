@@ -49,7 +49,7 @@ design:
 
 * Can Government Policies Moderate Political Backlash to Structural Change? (with Thomas Kurer, Silja Häusermann, Susana de Pinho Tavares). [URPP Equality of Opportunity Discussion Paper Series #67](https://www.urpp-equality.uzh.ch/dam/jcr:ecaf379a-45f9-4df9-bbea-a2d21fafe831/67_Techno_CSP_Paper-1.pdf). 
 * Policy Responses to Technological Change in the Workplace. [JRC Working Paper Series on Social Classes in the Digital Age](https://retobuergisser.com/publication/ecjrc_policy/).
-* White-Collar Automation: Adaptation, Compensation and the Politics of AI Exposure (with Thomas Kurer)
+* White-Collar Automation: Adaptation, Compensation and the Politics of AI Exposure (with Thomas Kurer). [URPP Equality of Opportunity Discussion Paper Series #94](https://www.urpp-equality.uzh.ch/dam/jcr:60e79a82-cd05-48b2-b212-482cac29bd31/94_KV_paper-3.pdf)). 
 * The Political Conflict Potential of Digitalization (with Álvaro Canalejo-Molero, Mathilde M. van Ditmars, and Alexander H. Trechsel) 
 
 #### Climate Change
